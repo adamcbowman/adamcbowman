@@ -4,7 +4,7 @@
 - 🌎 https://www.adambowman.tech
 - 📫 adam@adambowman.tech
 
-I recently moved all my repos to a selfhosted gitlab so not much to see here anymore :)
+I've mostly migrated to GitLab and mostly hang out there now
 
 <!---
 adamcbowman/adamcbowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
