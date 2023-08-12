@@ -1,8 +1,7 @@
 - Hi, I’m @adamcbowman
-- I’m interested in Javascript Development, Security, and DevOps
-- I’m currently learning Powershell, GitLab, and Docker
+- I’m interested in Full Stack and DevOps. 
 - 🌎 https://www.adambowman.tech
-- 📫 adam@adambowman.tech
+- 📫 adamcbowman@gmail.com
 
 <!---
 adamcbowman/adamcbowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
