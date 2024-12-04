@@ -1,6 +1,5 @@
 - Hi, I’m @adamcbowman
 - I’m interested in Full Stack and DevOps. 
-- 🌎 https://www.adambowman.tech
 - 📫 adamcbowman@gmail.com
 
 <!---
